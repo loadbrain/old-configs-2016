@@ -235,7 +235,7 @@ exec --no-startup-id numlockx on
 exec --no-startup-id clipit
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
-exec --no-startup-id conky -c /home/bsd/.conkyrc
+exec --no-startup-id conky -c $HOME/.conkyrc
 
 #############  i3-gaps  #############
 gaps inner 5
