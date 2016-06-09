@@ -1,1 +1,1 @@
-# some handy configs for gnu/linux system
+some handy configs for gnu/linux system
