@@ -1,0 +1,49 @@
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.hinting:                true
+Xft.rgba:                   rgb
+Xft.autohint:               false
+Xft.hintstyle:              hintslight
+Xft.lcdfilter:              lcddefault
+
+*foreground:                rgb:fa/fa/fa
+*background:                rgb:33/33/33
+
+*color0:                    gray20
+*color1:                    #ED335E
+*color2:                    #16A085
+*color3:                    #FFD94A
+*color4:                    #8484DF
+*color5:                    #6DD5D9
+*color6:                    #80AEE1
+*color7:                    gray60
+
+*color8:                    gray40
+*color9:                    #EE6887
+*color10:                   #71C7B6
+*color11:                   #FFE585
+*color12:                   #AFAFFF
+*color13:                   #EFA5FF
+*color14:                   #B9E8E9
+*color15:                   gray80
+
+!---xterm---!
+xterm*bellIsUrgent:         true
+xterm*cursorBlink:          true
+xterm*dynamicColors:        true
+xterm*locale:               true
+xterm*geometry:             120x36
+xterm*saveLines:            10000
+xterm*scrollKey:            true
+xterm*scrollTtyOutput:      false
+xterm*scrollBar:            true
+xterm*rightScrollBar:       true
+xterm*jumpScroll:           true
+xterm*multiScroll:          true
+xterm*visualBell:           false
+
+xterm*faceName:             xft:monospace:size=10:antialias=true
+xterm*scaleHeight:          1.0
+
+xterm*selectToClipboard:    true
+xterm*metaSendsEscape:      true
