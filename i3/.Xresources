@@ -7,7 +7,7 @@ Xft.hintstyle:              hintslight
 Xft.lcdfilter:              lcddefault
 
 *foreground:                rgb:fa/fa/fa
-*background:                rgb:33/33/33
+*background:                rgb:2b/2b/2b
 
 *color0:                    gray20
 *color1:                    #ED335E
@@ -36,7 +36,7 @@ xterm*geometry:             120x36
 xterm*saveLines:            10000
 xterm*scrollKey:            true
 xterm*scrollTtyOutput:      false
-xterm*scrollBar:            true
+xterm*scrollBar:            false
 xterm*rightScrollBar:       true
 xterm*jumpScroll:           true
 xterm*multiScroll:          true
